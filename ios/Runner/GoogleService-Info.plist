@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyC6XJxsUQCGNf-z3Y1BSAWwIfHwO-wr-ck</string>
+	<string>api key</string>
 	<key>GCM_SENDER_ID</key>
 	<string>1091055234839</string>
 	<key>PLIST_VERSION</key>
@@ -25,8 +25,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1091055234839:ios:0a44c988b009940888d152</string>
+	<string>google app id</string>
 	<key>DATABASE_URL</key>
-	<string>https://falldetectionapp-851a4-default-rtdb.europe-west1.firebasedatabase.app</string>
+	<string>url</string>
 </dict>
 </plist>

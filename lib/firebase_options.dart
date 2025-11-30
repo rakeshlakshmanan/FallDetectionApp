@@ -41,22 +41,22 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDuwsGG8kA0tQUG9hbMPg8tPR-Oh1sa-V8',
-    appId: '1:1091055234839:web:c080f8c3f5b3c40788d152',
+    apiKey: 'api_key',
+    appId: 'api_id',
     messagingSenderId: '1091055234839',
     projectId: 'falldetectionapp-851a4',
     authDomain: 'falldetectionapp-851a4.firebaseapp.com',
-    databaseURL: 'https://falldetectionapp-851a4-default-rtdb.europe-west1.firebasedatabase.app',
+    databaseURL: 'url',
     storageBucket: 'falldetectionapp-851a4.firebasestorage.app',
     measurementId: 'G-G3TGJ53ZDT',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDLZjVBLboYq5lg2b4bSgFcoggYwNt2Ta8',
+    apiKey: 'api_key',
     appId: '1:1091055234839:android:ae44e00a698774ad88d152',
     messagingSenderId: '1091055234839',
     projectId: 'falldetectionapp-851a4',
-    databaseURL: 'https://falldetectionapp-851a4-default-rtdb.europe-west1.firebasedatabase.app',
+    databaseURL: 'sss',
     storageBucket: 'falldetectionapp-851a4.firebasestorage.app',
   );
 
